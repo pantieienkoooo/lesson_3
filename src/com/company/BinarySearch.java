@@ -9,5 +9,6 @@ public class BinarySearch {
 
         System.out.println(pos);
         System.out.println("hi");
+        System.out.println("blablabla");
     }
 }
