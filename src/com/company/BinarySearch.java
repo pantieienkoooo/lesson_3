@@ -11,7 +11,8 @@ public class BinarySearch {
         System.out.println(pos);
         System.out.println(pos);System.out.println(pos);
         System.out.println(pos);System.out.println(pos);
-        
+        System.out.println(pos);System.out.println(pos);System.out.println(pos);
+
 
 
 
