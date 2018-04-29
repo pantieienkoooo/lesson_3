@@ -7,5 +7,15 @@ public class BinarySearch {
         int [] arr = {10, 20, 30, 40};
         int pos = Arrays.binarySearch(arr, 20);
         System.out.println(pos);
+        System.out.println(pos);System.out.println(pos);System.out.println(pos);
+        System.out.println(pos);
+        System.out.println(pos);System.out.println(pos);
+        System.out.println(pos);System.out.println(pos);
+        
+
+
+
+
+
     }
 }
