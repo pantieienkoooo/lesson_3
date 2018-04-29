@@ -8,5 +8,16 @@ public class BinarySearch {
         int pos = Arrays.binarySearch(arr, 20);
         System.out.println(pos);
         System.out.println("sdfgdg");
+        System.out.println(pos);System.out.println(pos);System.out.println(pos);
+        System.out.println(pos);
+        System.out.println(pos);System.out.println(pos);
+        System.out.println(pos);System.out.println(pos);
+        System.out.println(pos);System.out.println(pos);System.out.println(pos);
+        System.out.println("hahahahahah");
+
+
+
+
+
     }
 }
